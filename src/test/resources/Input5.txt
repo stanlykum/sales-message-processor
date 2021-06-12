@@ -1,0 +1,5 @@
+apple at 10p
+orange at 30p
+mango at 5p
+11 sales of mangos at 13p each
+Substract 10p mangos

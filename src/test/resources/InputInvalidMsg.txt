@@ -1,0 +1,51 @@
+grape at 10p
+banana at 30p
+pineapple at 5p
+20 sales of bananas at 30p each
+Substract 10p bananas
+20 sales of grapes at 10p each
+Add 20p grapes
+50 sales of pineapples at 10p each
+Add 22p pineapples
+Multiply 2p pineapples
+pineapple at 10p
+banana at 40p
+3 sales of grapes at 13p each
+pineapple at 5p
+Add 10p pineapples
+Add 25p bananas
+Multiply 2p grapes
+pineapple at 5p
+Add 10p pineapples
+Add 25p bananas
+Multiply 2p bananas
+grape at 10p
+banana at 30p
+pineapple at 5p
+grape at 10p
+banana at 30p
+pineapple at 5p
+grape at 10p
+banana at 30p
+pineapple at 5p
+grape at 10p
+banana at 30p
+pineapple at 5p
+grape at 10p
+banana at 30p
+pineapple at 5p
+grape at 10p
+banana at 30p
+pineapple at 5p
+grape at 10p
+banana at 30p
+pineapple at 5p
+grape at 10p
+banana at 30p
+pineapple at 5p
+grape at 10p
+banana at 30p
+pineapple at 5p
+grape at 10p
+banana at 30p
+pineapple at 5p

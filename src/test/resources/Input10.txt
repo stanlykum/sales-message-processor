@@ -1,0 +1,10 @@
+apple at 10p
+orange at 30p
+mango at 5p
+20 sales of oranges at 30p each
+Substract 10p oranges
+20 sales of apples at 10p each
+Add 20p apples
+50 sales of mangos at 10p each
+Add 22p mangos
+Multiply 2p mangos
